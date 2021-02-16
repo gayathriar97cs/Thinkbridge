@@ -1,0 +1,38 @@
+For this Assignment, i have used Microsoft Visual Studio 2013 and Microsoft SQL Server Management Studio 2012 Tools.
+
+Programming languages: Asp.net, C#, Javascript, Html, CSS, MS Sql Server
+
+In Microsoft Visual Studio 2013:
+
+I have created new project name as WebExam.In that web form name as ItemMasterInventory
+
+steps for Execution:
+       1.  open ItemMasterInventory.aspx web form
+       then it will show design part ,if you want to coding part press F7 then i will open ItemMasterInventory.cs
+      2.   if you want to debug Press F5 
+      3.   Press ctrl F5 then output will display in google chrome
+
+
+
+In Microsoft SQL Server Management Studio 2012:
+
+1.  I have created Database name as WebExam. In that i have created table and Stored Procedures
+2.  inputs are saved in table if you want to see then right click of the table and press edit top 200 rows
+3.  if you want to see design of table ,then right click table press design
+4.   then click programmability in that open Store Procedures, here i have written insert query, update query, select query, delete query
+5. open any query then press F5 then that query will execute
+
+In Google Chrome:
+
+press new Item Inventory button then it will open creation of item page 
+here i have given  ItemName, ItemDescription, price but these are mandatory fields, without putting input if you press save button then it will show alert message 
+
+in below i have given list of items here if you want to edit ,then edit and upadte the item by using Edit linkButton 
+if you press delete button then that particular item will deleted, 
+if you press view Item then thar particular Item details will display in another page ,for displaying of particual item details i have created another web form name as ItemView.aspx.here by using itemid that particular item details will display in another page
+
+
+
+
+
+

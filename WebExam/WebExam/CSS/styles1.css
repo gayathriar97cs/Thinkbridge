@@ -1,0 +1,22 @@
+
+#cssmenumain > ul:after {
+  content: "";
+  display: block;
+}
+#cssmenumain:after,
+#cssmenumain > ul:after {
+  clear: both;
+}
+
+
+#cssmenumain ul > li {
+  float: left;
+  list-style: none;
+	width: 104px;
+}
+m: rotate(-135deg);
+#cssmenumain ul ul li.active > a::after,
+#cssmenumain ul ul li.open > a::after,
+#cssmenumain ul ul li > a:hover::after {
+  border-color:Teal;
+}
